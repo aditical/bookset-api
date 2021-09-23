@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name ": "Bamity",
+    "name": "Bamity",
     "image": "https://source.unsplash.com/featured?book",
     "price": "$0.32",
     "stock": 3,
@@ -11,7 +11,7 @@
   },
   {
     "id": 2,
-    "name ": "Span",
+    "name": "Span",
     "image": "https://source.unsplash.com/featured?book",
     "price": "$1.84",
     "stock": 9,
@@ -21,7 +21,7 @@
   },
   {
     "id": 3,
-    "name ": "Fixflex",
+    "name": "Fixflex",
     "image": "https://source.unsplash.com/featured?book",
     "price": "$2.51",
     "stock": 2,
@@ -31,7 +31,7 @@
   },
   {
     "id": 4,
-    "name ": "Y-find",
+    "name": "Y-find",
     "image": "https://source.unsplash.com/featured?book",
     "price": "$1.54",
     "stock": 5,
@@ -41,7 +41,7 @@
   },
   {
     "id": 5,
-    "name ": "Ronstring",
+    "name": "Ronstring",
     "image": "https://source.unsplash.com/featured?book",
     "price": "$6.20",
     "stock": 10,
@@ -51,7 +51,7 @@
   },
   {
     "id": 6,
-    "name ": "Fix San",
+    "name": "Fix San",
     "image": "https://source.unsplash.com/featured?book",
     "price": "$6.21",
     "stock": 8,
@@ -61,7 +61,7 @@
   },
   {
     "id": 7,
-    "name ": "Matsoft",
+    "name": "Matsoft",
     "image": "https://source.unsplash.com/featured?book",
     "price": "$6.50",
     "stock": 5,
@@ -71,7 +71,7 @@
   },
   {
     "id": 8,
-    "name ": "Tres-Zap",
+    "name": "Tres-Zap",
     "image": "https://source.unsplash.com/featured?book",
     "price": "$8.50",
     "stock": 3,
@@ -81,7 +81,7 @@
   },
   {
     "id": 9,
-    "name ": "Stim",
+    "name": "Stim",
     "image": "https://source.unsplash.com/featured?book",
     "price": "$8.22",
     "stock": 5,
@@ -91,7 +91,7 @@
   },
   {
     "id": 10,
-    "name ": "Overhold",
+    "name": "Overhold",
     "image": "https://source.unsplash.com/featured?book",
     "price": "$5.09",
     "stock": 6,
@@ -101,7 +101,7 @@
   },
   {
     "id": 11,
-    "name ": "Latlux",
+    "name": "Latlux",
     "image": "https://source.unsplash.com/featured?book",
     "price": "$7.07",
     "stock": 5,
@@ -111,7 +111,7 @@
   },
   {
     "id": 12,
-    "name ": "Sonsing",
+    "name": "Sonsing",
     "image": "https://source.unsplash.com/featured?book",
     "price": "$1.89",
     "stock": 5,
@@ -121,7 +121,7 @@
   },
   {
     "id": 13,
-    "name ": "Voltsillam",
+    "name": "Voltsillam",
     "image": "https://source.unsplash.com/featured?book",
     "price": "$4.84",
     "stock": 3,
@@ -131,7 +131,7 @@
   },
   {
     "id": 14,
-    "name ": "Treeflex",
+    "name": "Treeflex",
     "image": "https://source.unsplash.com/featured?book",
     "price": "$7.42",
     "stock": 5,
@@ -141,7 +141,7 @@
   },
   {
     "id": 15,
-    "name ": "Gembucket",
+    "name": "Gembucket",
     "image": "https://source.unsplash.com/featured?book",
     "price": "$4.89",
     "stock": 5,
@@ -151,7 +151,7 @@
   },
   {
     "id": 16,
-    "name ": "Y-Solowarm",
+    "name": "Y-Solowarm",
     "image": "https://source.unsplash.com/featured?book",
     "price": "$2.46",
     "stock": 3,
@@ -161,7 +161,7 @@
   },
   {
     "id": 17,
-    "name ": "Kanlam",
+    "name": "Kanlam",
     "image": "https://source.unsplash.com/featured?book",
     "price": "$9.50",
     "stock": 2,
@@ -171,7 +171,7 @@
   },
   {
     "id": 18,
-    "name ": "Bamity",
+    "name": "Bamity",
     "image": "https://source.unsplash.com/featured?book",
     "price": "$7.28",
     "stock": 10,
@@ -181,7 +181,7 @@
   },
   {
     "id": 19,
-    "name ": "Cardguard",
+    "name": "Cardguard",
     "image": "https://source.unsplash.com/featured?book",
     "price": "$6.65",
     "stock": 8,
@@ -191,7 +191,7 @@
   },
   {
     "id": 20,
-    "name ": "Alphazap",
+    "name": "Alphazap",
     "image": "https://source.unsplash.com/featured?book",
     "price": "$5.79",
     "stock": 7,
@@ -201,7 +201,7 @@
   },
   {
     "id": 21,
-    "name ": "Transcof",
+    "name": "Transcof",
     "image": "https://source.unsplash.com/featured?book",
     "price": "$3.72",
     "stock": 9,
@@ -211,7 +211,7 @@
   },
   {
     "id": 22,
-    "name ": "Cookley",
+    "name": "Cookley",
     "image": "https://source.unsplash.com/featured?book",
     "price": "$3.08",
     "stock": 1,
@@ -221,7 +221,7 @@
   },
   {
     "id": 23,
-    "name ": "Sonair",
+    "name": "Sonair",
     "image": "https://source.unsplash.com/featured?book",
     "price": "$8.94",
     "stock": 8,
@@ -231,7 +231,7 @@
   },
   {
     "id": 24,
-    "name ": "Zoolab",
+    "name": "Zoolab",
     "image": "https://source.unsplash.com/featured?book",
     "price": "$0.17",
     "stock": 2,
@@ -241,7 +241,7 @@
   },
   {
     "id": 25,
-    "name ": "Rank",
+    "name": "Rank",
     "image": "https://source.unsplash.com/featured?book",
     "price": "$3.78",
     "stock": 4,
@@ -251,7 +251,7 @@
   },
   {
     "id": 26,
-    "name ": "It",
+    "name": "It",
     "image": "https://source.unsplash.com/featured?book",
     "price": "$9.01",
     "stock": 10,
@@ -261,7 +261,7 @@
   },
   {
     "id": 27,
-    "name ": "Biodex",
+    "name": "Biodex",
     "image": "https://source.unsplash.com/featured?book",
     "price": "$8.77",
     "stock": 4,
@@ -271,7 +271,7 @@
   },
   {
     "id": 28,
-    "name ": "Subin",
+    "name": "Subin",
     "image": "https://source.unsplash.com/featured?book",
     "price": "$6.06",
     "stock": 7,
@@ -281,7 +281,7 @@
   },
   {
     "id": 29,
-    "name ": "Otcom",
+    "name": "Otcom",
     "image": "https://source.unsplash.com/featured?book",
     "price": "$7.20",
     "stock": 8,
@@ -291,7 +291,7 @@
   },
   {
     "id": 30,
-    "name ": "Otcom",
+    "name": "Otcom",
     "image": "https://source.unsplash.com/featured?book",
     "price": "$9.78",
     "stock": 7,
@@ -301,7 +301,7 @@
   },
   {
     "id": 31,
-    "name ": "Bitchip",
+    "name": "Bitchip",
     "image": "https://source.unsplash.com/featured?book",
     "price": "$8.16",
     "stock": 2,
@@ -311,7 +311,7 @@
   },
   {
     "id": 32,
-    "name ": "Daltfresh",
+    "name": "Daltfresh",
     "image": "https://source.unsplash.com/featured?book",
     "price": "$6.33",
     "stock": 2,
@@ -321,7 +321,7 @@
   },
   {
     "id": 33,
-    "name ": "Asoka",
+    "name": "Asoka",
     "image": "https://source.unsplash.com/featured?book",
     "price": "$8.38",
     "stock": 7,
@@ -331,7 +331,7 @@
   },
   {
     "id": 34,
-    "name ": "Zaam-Dox",
+    "name": "Zaam-Dox",
     "image": "https://source.unsplash.com/featured?book",
     "price": "$8.94",
     "stock": 9,
@@ -341,7 +341,7 @@
   },
   {
     "id": 35,
-    "name ": "Temp",
+    "name": "Temp",
     "image": "https://source.unsplash.com/featured?book",
     "price": "$4.00",
     "stock": 3,
@@ -351,7 +351,7 @@
   },
   {
     "id": 36,
-    "name ": "Y-find",
+    "name": "Y-find",
     "image": "https://source.unsplash.com/featured?book",
     "price": "$3.40",
     "stock": 3,
@@ -361,7 +361,7 @@
   },
   {
     "id": 37,
-    "name ": "Cookley",
+    "name": "Cookley",
     "image": "https://source.unsplash.com/featured?book",
     "price": "$5.43",
     "stock": 4,
@@ -371,7 +371,7 @@
   },
   {
     "id": 38,
-    "name ": "Fix San",
+    "name": "Fix San",
     "image": "https://source.unsplash.com/featured?book",
     "price": "$8.02",
     "stock": 7,
@@ -381,7 +381,7 @@
   },
   {
     "id": 39,
-    "name ": "Sonsing",
+    "name": "Sonsing",
     "image": "https://source.unsplash.com/featured?book",
     "price": "$0.13",
     "stock": 5,
@@ -391,7 +391,7 @@
   },
   {
     "id": 40,
-    "name ": "Matsoft",
+    "name": "Matsoft",
     "image": "https://source.unsplash.com/featured?book",
     "price": "$0.20",
     "stock": 8,
@@ -401,7 +401,7 @@
   },
   {
     "id": 41,
-    "name ": "Zontrax",
+    "name": "Zontrax",
     "image": "https://source.unsplash.com/featured?book",
     "price": "$3.78",
     "stock": 4,
@@ -411,7 +411,7 @@
   },
   {
     "id": 42,
-    "name ": "Tres-Zap",
+    "name": "Tres-Zap",
     "image": "https://source.unsplash.com/featured?book",
     "price": "$2.90",
     "stock": 5,
@@ -421,7 +421,7 @@
   },
   {
     "id": 43,
-    "name ": "Matsoft",
+    "name": "Matsoft",
     "image": "https://source.unsplash.com/featured?book",
     "price": "$7.53",
     "stock": 4,
@@ -431,7 +431,7 @@
   },
   {
     "id": 44,
-    "name ": "Kanlam",
+    "name": "Kanlam",
     "image": "https://source.unsplash.com/featured?book",
     "price": "$0.65",
     "stock": 9,
@@ -441,7 +441,7 @@
   },
   {
     "id": 45,
-    "name ": "Job",
+    "name": "Job",
     "image": "https://source.unsplash.com/featured?book",
     "price": "$1.56",
     "stock": 1,
@@ -451,7 +451,7 @@
   },
   {
     "id": 46,
-    "name ": "Transcof",
+    "name": "Transcof",
     "image": "https://source.unsplash.com/featured?book",
     "price": "$5.96",
     "stock": 3,
@@ -461,7 +461,7 @@
   },
   {
     "id": 47,
-    "name ": "Namfix",
+    "name": "Namfix",
     "image": "https://source.unsplash.com/featured?book",
     "price": "$2.98",
     "stock": 10,
@@ -471,7 +471,7 @@
   },
   {
     "id": 48,
-    "name ": "Matsoft",
+    "name": "Matsoft",
     "image": "https://source.unsplash.com/featured?book",
     "price": "$1.39",
     "stock": 4,
@@ -481,7 +481,7 @@
   },
   {
     "id": 49,
-    "name ": "Tin",
+    "name": "Tin",
     "image": "https://source.unsplash.com/featured?book",
     "price": "$4.11",
     "stock": 3,
@@ -491,7 +491,7 @@
   },
   {
     "id": 50,
-    "name ": "Alphazap",
+    "name": "Alphazap",
     "image": "https://source.unsplash.com/featured?book",
     "price": "$8.69",
     "stock": 4,
